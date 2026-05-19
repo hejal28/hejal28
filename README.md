@@ -2,7 +2,7 @@
 
 Final-year Physics student at Western University, focused on photonics 
 and semiconductor device characterization. I work at the intersection of 
-experimental physics and scientific computing — building Python tools to 
+experimental physics and scientific computing, building Python tools to 
 process measurement data and simulate quantum systems.
 
 🔬 Currently exploring photonic device design & simulation.
@@ -12,7 +12,7 @@ process measurement data and simulate quantum systems.
 **[Qiskit — Peaked Circuits]**  
 Quantum circuit simulation from the YQuantum × BlueQubit hackathon at Yale. 
 Scaled simulations to 40–60 qubit systems using Matrix Product State 
-approximation, Qiskit transpilation, and gate-cancellation — solved 8 of 
+approximation, Qiskit transpilation, and gate-cancellation, solved 8 of 
 10 challenges in 24 hours.
 
 ## Tools
