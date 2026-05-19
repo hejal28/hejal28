@@ -9,7 +9,7 @@ process measurement data and simulate quantum systems.
 
 ## Featured Work
 
-**[Qiskit — Peaked Circuits]**  
+**[Qiskit: Peaked Circuits]**  
 Quantum circuit simulation from the YQuantum × BlueQubit hackathon at Yale. 
 Scaled simulations to 40–60 qubit systems using Matrix Product State 
 approximation, Qiskit transpilation, and gate-cancellation, solved 8 of 
