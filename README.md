@@ -1,4 +1,4 @@
-# Hi, I'm Hejal 👋
+# .𖥔 ݁ ˖🚀🪐.𖥔 ݁ ˖Hi, I'm Hejal .𖥔 ݁ ˖🪐🚀.𖥔 ݁ ˖
 
 Final-year Physics student at Western University, focused on photonics 
 and semiconductor device characterization. I work at the intersection of 
@@ -9,7 +9,7 @@ process measurement data and simulate quantum systems.
 
 ## Featured Work
 
-**[Qiskit: Peaked Circuits]**  
+**[peaked-circuits-yquantum]**  
 Quantum circuit simulation from the YQuantum × BlueQubit hackathon at Yale. 
 Scaled simulations to 40–60 qubit systems using Matrix Product State 
 approximation, Qiskit transpilation, and gate-cancellation, solved 8 of 
