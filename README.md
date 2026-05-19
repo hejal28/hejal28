@@ -15,6 +15,12 @@ Scaled simulations to 40–60 qubit systems using Matrix Product State
 approximation, Qiskit transpilation, and gate-cancellation, solved 8 of 
 10 challenges in 24 hours.
 
+**[erbium-implanted-silicon-characterization]**
+Characterized erbium-implanted silicon samples using semiconductor and optical analysis methods to study material response and device-relevant properties. Focused on experimental data interpretation for optoelectronic and quantum-material applications.
+
+**[quantum-computing-qiskit]**
+Built a Qiskit-based quantum computing project exploring core circuit concepts, quantum operations, and practical simulation workflows. The repo appears well suited as a learning-and-experimentation space for testing foundational quantum algorithms and circuit behavior.
+
 ## Tools
 Python (NumPy · SciPy · Pandas · Matplotlib) · Qiskit · MATLAB · Git
 
